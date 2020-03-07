@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oofeixaxi.webdev.legnica.pl/sitemap.xml
